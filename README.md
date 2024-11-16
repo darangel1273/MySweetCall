@@ -1,2 +1,3 @@
 # MySweetCall
-(guideline) exercise for my students make a contacts list in Android Studio in java with some geolocation use
+# (guideline) exercise for my students make a contacts list in Android Studio in java with some geolocation use
+# @author Rui Pereira
