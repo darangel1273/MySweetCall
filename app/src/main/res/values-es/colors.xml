@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cinzento_claro">#888888</color>
+    <color name="cinzento_escuro">#555555</color>
+    <color name="violeta">#673AB7</color>
+    <color name="verde_alface">#4CAF50</color>
+</resources>

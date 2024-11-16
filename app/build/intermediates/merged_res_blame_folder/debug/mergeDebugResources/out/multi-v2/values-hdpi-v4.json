@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ruipereira.mysweetcall.app-mergeDebugResources-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Utilizador\\.gradle\\caches\\8.9\\transforms\\a7cc1571253cfbc3003880272d3ac775\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

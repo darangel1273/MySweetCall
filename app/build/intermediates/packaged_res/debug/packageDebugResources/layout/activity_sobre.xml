@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ruipereira.MySweetCall.Sobre">
+
+    <Button
+        android:id="@+id/bt_voltar_sobre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="1dp"
+        android:text="@string/voltar" />
+
+    <EditText
+        android:id="@+id/et_ch_pin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="1dp"
+        android:gravity="start"
+        android:hint="@string/mudar_pino"
+        android:inputType="numberPassword"
+        android:textSize="40sp" />
+
+    <EditText
+        android:id="@+id/et_ch_pin2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="138dp"
+        android:gravity="left"
+        android:hint="@string/confirmar_pino"
+        android:inputType="numberPassword"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/bt_mudar_pino"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="226dp"
+        android:layout_marginEnd="-2dp"
+        android:text="@string/bt_mudar_pino" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/violeta"
+        android:gravity="center|bottom"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_horasMinutos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/HorasMinutos"
+            android:textColor="@color/white"
+            android:textSize="90sp"
+            android:textStyle="italic|bold" />
+
+        <TextView
+            android:id="@+id/tv_segundos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/segundos"
+            android:textColor="@color/white"
+            android:textSize="50sp"
+            android:textStyle="italic|bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="160sp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_weight="5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/op_es_avan_adas"
+            android:textSize="18sp"/>
+
+        <ImageView
+            android:id="@+id/img_hide_down"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="10sp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:contentDescription="@string/esconder"
+            android:focusable="true"
+            android:src="@drawable/arrowdo" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/img_show_up"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="10sp"
+            android:clickable="true"
+            android:contentDescription="@string/mostrar"
+            android:focusable="true"
+            android:src="@drawable/arrowup" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linearLay"
+        android:background="@color/cinzento_escuro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:padding="10sp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/cinzento_claro"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_nivelBat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/n_vel_de_bateria" />
+
+            <TextView
+                android:id="@+id/tv_nivelBat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="20sp"
+                android:padding="10sp"
+                android:text="@string/nb" />
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_descricao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/trabalho_desenvolvido_por"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:text="@string/rui_manuel_de_oliveira_pereira"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_avaliacao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/_10_valores"
+            android:textSize="20sp" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639776583894",
+    "project_id": "myseetcall",
+    "storage_bucket": "myseetcall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639776583894:android:5784dfa66cb72be0dd5977",
+        "android_client_info": {
+          "package_name": "com.ruipereira.MySweetCall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639776583894-gas09vkl4f0qds6hlt810kpnq6bb012m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpCsPIM6nQ4MdvcXxWm4v6PZ1tnYC8WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639776583894-gas09vkl4f0qds6hlt810kpnq6bb012m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

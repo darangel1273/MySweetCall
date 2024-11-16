@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a6.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a6.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a16.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a16.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a7.jpeg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a7.jpeg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a15.jpeg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a15.jpeg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a8.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a8.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_detalhe.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_detalhe.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a4.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a4.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a11.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a11.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_ico.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/ico.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a12.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a12.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a2.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a2.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_telefoneantigo.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/telefoneantigo.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a14.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a14.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_sobre.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_sobre.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_mapa.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_mapa.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a5.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a5.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a10.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a10.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_telefonevermelho.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/telefonevermelho.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a3.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a3.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a9.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a9.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_icon.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/icon.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a13.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a13.jpg"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_arrowdo.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/arrowdo.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/layout_activity_pin.xml.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/layout/activity_pin.xml"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_arrowup.png.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/arrowup.png"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/raw_click.mp3.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/raw/click.mp3"
+    },
+    {
+        "merged": "com.ruipereira.mysweetcall.app-merged_res-32:/drawable_a1.jpg.flat",
+        "source": "com.ruipereira.mysweetcall.app-main-34:/drawable/a1.jpg"
+    }
+]

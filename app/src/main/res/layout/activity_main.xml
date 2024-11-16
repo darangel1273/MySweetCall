@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ruipereira.MySweetCall.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_nome"
+            android:hint="@string/nome"
+            android:textColor="@color/verde_alface"
+            android:layout_weight="8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:id="@+id/et_apelido"
+            android:hint="@string/apelido"
+            android:textColor="@color/verde_alface"
+            android:layout_weight="8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <Button
+            android:id="@+id/bt_voltar_main"
+            android:textColor="@color/white"
+            android:text="@string/voltar_main"
+            android:textSize="11sp"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/et_morada"
+            android:textColor="@color/verde_alface"
+            android:hint="@string/morada"
+            android:layout_weight="7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/et_telemovel"
+            android:textColor="@color/verde_alface"
+            android:hint="@string/telemovel"
+            android:layout_weight="3"
+            android:inputType="phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/et_latitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="25"
+            android:hint="@string/latitude"
+            android:textColor="@color/verde_alface"
+            android:inputType="numberSigned|numberDecimal" />
+
+        <EditText
+            android:id="@+id/et_longitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="25"
+            android:hint="@string/longitude"
+            android:textColor="@color/verde_alface"
+            android:inputType="numberSigned|numberDecimal" />
+        <Button
+            android:id="@+id/bt_mapa"
+            android:textColor="@color/white"
+            android:text="@string/ver"
+            android:textSize="11sp"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/et_email"
+            android:hint="@string/email"
+            android:textColor="@color/verde_alface"
+            android:inputType="textEmailAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:layout_weight="3"
+            android:id="@+id/et_nasc"
+            android:inputType="date|numberDecimal"
+            android:hint="@string/nascimento"
+            android:textColor="@color/verde_alface"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/tv_idade"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:hint="@string/idade"
+            android:textColor="@color/verde_alface"
+            android:gravity="center"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/tv_anos"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:hint="@string/anos"
+            android:textColor="@color/verde_alface"
+            android:gravity="center"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_barraBotoes"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/bt_inserir"
+            android:text="@string/inserir"
+            android:textSize="10sp"
+            android:textColor="@color/white"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/bt_editar"
+            android:text="@string/editar"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/bt_remover"
+            android:text="@string/apaga"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/bt_avancado"
+            android:text="@string/mais"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/bt_sort_up"
+                android:contentDescription="@string/ordem_descendete"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/arrowup" />
+            <ImageButton
+                android:id="@+id/bt_sort_down"
+                android:contentDescription="@string/ordem_ascendente"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/arrowdo" />
+        </LinearLayout>
+    </LinearLayout>
+    <ListView
+        android:id="@+id/lstv_contactos"
+        android:cacheColorHint="@color/teal_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+</LinearLayout>
